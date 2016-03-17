@@ -1,5 +1,13 @@
 @import 'normalize.css';
 
+html {
+	font-size: 16px;
+}
+
+body {
+	background: #ced2c5;
+}
+
 .masthead {
 	height: 131px;
 	padding: 5px 0px;
@@ -8,4 +16,10 @@
 
 nav {
 	background: linear-gradient(#3e606f, #324d59);
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin:auto;
 }
