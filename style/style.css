@@ -1,0 +1,11 @@
+@import 'normalize.css';
+
+.masthead {
+	height: 131px;
+	padding: 5px 0px;
+	background: radial-gradient(circle, #1e3e4d, #102028);
+}
+
+nav {
+	background: linear-gradient(#3e606f, #324d59);
+}
